@@ -51,7 +51,7 @@ public class ProgramaAluno {
             System.out.println("\n-------------Informacoes sobre as Materias--------------\n");
             System.out.println(aluno.materias.InformacoesMaterias());
 
-            System.out.println("\n-------------------------Metodos--------------------------");
+            System.out.println("------------------------Metodos--------------------------\n");
             System.out.println("--------Metodo de  alterar curso do Aluno-------\n");
             System.out.println("Curso Inicial do aluno: " + aluno.cursoAluno);
             aluno.alterarCursoAluno("Direito");

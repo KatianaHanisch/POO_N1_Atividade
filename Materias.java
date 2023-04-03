@@ -5,7 +5,7 @@ public class Materias {
       String InformacoesMaterias() {
             for (int i = 0; i < 2; i++) {
                   System.out.println(
-                              "Materia: " + nomeMaterias[i] + "\nProfessor da materia: " + nomeProfessor[i] + "\n\n");
+                              "Materia: " + nomeMaterias[i] + "\nProfessor da materia: " + nomeProfessor[i] + "\n");
             }
             ;
             return " ";
